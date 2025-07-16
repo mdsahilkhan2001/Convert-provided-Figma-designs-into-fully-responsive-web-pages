@@ -44,7 +44,8 @@ This project is a **responsive landing page** built using **React**, **Tailwind 
 
 ## 🚀 Live Demo
 
-🔗 [View Live Site on Vercel](https://convert-provided-figma-designs-into.vercel.app)  
+🔗 [View Live Site on Vercel]🔗 (https://convert-provided-figma-designs-into.vercel.app)
+
 🔗 [GitHub Repository](https://github.com/mdsahilkhan2001/Convert-provided-Figma-designs-into-fully-responsive-web-pages)
 
 ---
