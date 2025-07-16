@@ -1,12 +1,77 @@
-# React + Vite
+ # 🌿 Responsive Skincare Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **responsive landing page** built using **React**, **Tailwind CSS**, and **GSAP animations**. It replicates a Figma design for mobile, tablet, and desktop views.
 
-Currently, two official plugins are available:
+## 🔗 Figma Design
+[Click to View the Figma File](https://www.figma.com/design/fZv8D5oLfoazZTnWXTr9Cp/Assignment?node-id=0-1&t=MXlqvxPFZQSzgXJa-1)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Assignment Objectives
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Pixel-perfect implementation based on the provided Figma design
+- ✅ Responsive layout for **mobile**, **tablet**, and **desktop**
+- ✅ **Tailwind CSS** for styling
+- ✅ **GSAP** for premium animations
+
+---
+
+## ✨ Animations Implemented
+
+1. **Smooth Page Reveal on Load**  
+   → Elegant transition for a luxury feel using GSAP.
+
+2. **Word-by-Word Fill Animation**  
+   → First paragraph in the hero section reveals text subtly on scroll.
+
+3. **Interactive Buttons in Best Selling Products**  
+   → Slide animation on tap/hover for mobile/tablet users.
+
+4. **FAQ Section Expand/Collapse**  
+   → Smooth, responsive accordion with ease-in-out transitions.
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** (Vite)
+- **Tailwind CSS**
+- **GSAP**
+- **HTML5 / CSS3**
+- **Responsive Design (Mobile, Tablet, Desktop)**
+
+---
+
+## 🚀 Live Demo
+
+🔗 [View Live Site on Vercel](https://your-vercel-link.vercel.app)  
+🔗 [GitHub Repository](https://github.com/mdsahilkhan2001/Convert-provided-Figma-designs-into-fully-responsive-web-pages)
+
+---
+
+## 🖼️ Screenshots
+
+### 🖥️ Desktop View
+![Desktop View 1](./screenshots/Screenshot%202025-07-16%20144055.png)
+![Desktop View 2](./screenshots/Screenshot%202025-07-16%20144130.png)
+
+### 📱 Mobile View
+![Mobile View 1](./screenshots/Screenshot%202025-07-16%20144149.png)
+![Mobile View 2](./screenshots/Screenshot%202025-07-16%20144201.png)
+
+### 📟 Tablet View
+![Tablet View 1](./screenshots/Screenshot%202025-07-16%20144212.png)
+![Tablet View 2](./screenshots/Screenshot%202025-07-16%20144222.png)
+
+### 🎞️ Animation Preview
+![Animation Preview](./screenshots/Screenshot%202025-07-16%20144231.png)
+
+---
+
+## 🧾 How to Run Locally
+
+```bash
+git clone https://github.com/mdsahilkhan2001/Convert-provided-Figma-designs-into-fully-responsive-web-pages.git
+cd my-project
+npm install
+npm run dev
