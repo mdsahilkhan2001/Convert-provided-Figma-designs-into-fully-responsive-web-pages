@@ -1,8 +1,8 @@
- # 🌿 Responsive Skincare Landing Page
+# 🌿 Responsive Skincare Landing Page
 
 This project is a **responsive landing page** built using **React**, **Tailwind CSS**, and **GSAP animations**. It replicates a Figma design for mobile, tablet, and desktop views.
 
-## 🔗 Figma Design  
+## 🔗 Figma Design
 [Click to View the Figma File](https://www.figma.com/design/fZv8D5oLfoazZTnWXTr9Cp/Assignment?node-id=0-1&t=MXlqvxPFZQSzgXJa-1)
 
 ---
@@ -12,7 +12,7 @@ This project is a **responsive landing page** built using **React**, **Tailwind 
 - ✅ Pixel-perfect implementation based on the provided Figma design  
 - ✅ Responsive layout for **mobile**, **tablet**, and **desktop**  
 - ✅ **Tailwind CSS** for styling  
-- ✅ **GSAP** for premium animations
+- ✅ **GSAP** for premium animations  
 
 ---
 
@@ -44,7 +44,7 @@ This project is a **responsive landing page** built using **React**, **Tailwind 
 
 ## 🚀 Live Demo
 
-🔗 [View Live Site on Vercel](https://vite-react-nine-eta-97.vercel.app)  
+🔗 [View Live Site on Vercel](https://vite-react-6cewfq1nr-md-sahil-khans-projects-70856617.vercel.app)  
 🔗 [GitHub Repository](https://github.com/mdsahilkhan2001/Convert-provided-Figma-designs-into-fully-responsive-web-pages)
 
 ---
