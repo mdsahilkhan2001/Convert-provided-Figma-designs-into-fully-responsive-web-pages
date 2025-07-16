@@ -1,17 +1,17 @@
- # 🌿 Responsive Skincare Landing Page
+ #  Responsive Skincare Landing Page
 
 This project is a **responsive landing page** built using **React**, **Tailwind CSS**, and **GSAP animations**. It replicates a Figma design for mobile, tablet, and desktop views.
 
-## 🔗 Figma Design
+## 🔗 Figma Design  
 [Click to View the Figma File](https://www.figma.com/design/fZv8D5oLfoazZTnWXTr9Cp/Assignment?node-id=0-1&t=MXlqvxPFZQSzgXJa-1)
 
 ---
 
-## 📌 Assignment Objectives
+##  Assignment Objectives
 
-- ✅ Pixel-perfect implementation based on the provided Figma design
-- ✅ Responsive layout for **mobile**, **tablet**, and **desktop**
-- ✅ **Tailwind CSS** for styling
+- ✅ Pixel-perfect implementation based on the provided Figma design  
+- ✅ Responsive layout for **mobile**, **tablet**, and **desktop**  
+- ✅ **Tailwind CSS** for styling  
 - ✅ **GSAP** for premium animations
 
 ---
@@ -32,7 +32,7 @@ This project is a **responsive landing page** built using **React**, **Tailwind 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React** (Vite)
 - **Tailwind CSS**
@@ -51,19 +51,19 @@ This project is a **responsive landing page** built using **React**, **Tailwind 
 
 ## 🖼️ Screenshots
 
-### 🖥️ Desktop View
-![Desktop View 1](./screenshots/Screenshot%202025-07-16%20144055.png)
+### 🖥️ Desktop View  
+![Desktop View 1](./screenshots/Screenshot%202025-07-16%20144055.png)  
 ![Desktop View 2](./screenshots/Screenshot%202025-07-16%20144130.png)
 
-### 📱 Mobile View
-![Mobile View 1](./screenshots/Screenshot%202025-07-16%20144149.png)
+### 📱 Mobile View  
+![Mobile View 1](./screenshots/Screenshot%202025-07-16%20144149.png)  
 ![Mobile View 2](./screenshots/Screenshot%202025-07-16%20144201.png)
 
-### 📟 Tablet View
-![Tablet View 1](./screenshots/Screenshot%202025-07-16%20144212.png)
+### 📟 Tablet View  
+![Tablet View 1](./screenshots/Screenshot%202025-07-16%20144212.png)  
 ![Tablet View 2](./screenshots/Screenshot%202025-07-16%20144222.png)
 
-### 🎞️ Animation Preview
+### 🎞️ Animation Preview  
 ![Animation Preview](./screenshots/Screenshot%202025-07-16%20144231.png)
 
 ---
